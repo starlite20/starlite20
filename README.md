@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @starlite20
 
-- 👀 I’m interested in Game Development and Graphic Design.
+- 👀 I love to Develop Games and work with Graphic Designs.
 
-- 🌱 I’m currently learning Game Development and Web Design.
+- 🌱 I’m currently learning AI-Based Game Development and Generative AI Tools.
 
-- 💞️ I’m looking to collaborate on various indie game projects as well as interesting Web projects as well.
+- 💞️ I’m looking to collaborate on various indie game projects as well as interesting WebApp projects as well.
 
 - 📫 How to reach me? Well, connect with me via my profile at https://suhail-sujaudeen.netlify.app/
 
