@@ -1,13 +1,12 @@
-Hi, I'm Suhail! I'm a passionate developer with expertise in game development, web applications, and graphic design. Currently, I'm exploring the exciting world of Artificial Intelligence and Large Language Models.
+Hi, I'm Suhail! 👋 I'm a passionate developer with expertise in Game Development, Web Applications, and Graphic Design. Currently, I'm exploring the exciting world of Artificial Intelligence and Large Language Models (LLMs).
 
-I'm open to collaborating on indie game projects and innovative web app ventures. Let's create something amazing together!
-
+I'm open to collaborating on indie game projects and innovative web app ventures. Let's create something amazing together! 
 
 ## Contact
 You can reach out to me through the following channels:
-- Email: [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:suhail.unofficial@gmail.com)
-- Website: [https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://suhail-sujaudeen.netlify.app/)
-- LinkedIn: [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/suhail-sujaudeen/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhail.unofficial@gmail.com)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://suhail-sujaudeen.netlify.app/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-sujaudeen/)
 
 
 ### TechStack
